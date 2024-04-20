@@ -1,4 +1,4 @@
-This is my first repository that contains 80 exercises done with python.
+This is my first repository that contains of 80 exercises done with python.
 The exercises are split into 4 diferent folders that contain 20 exercises split by different python data types/ functionalities.
 Please find short summary of each:
 1)String- Strings in Python are sequences of characters, enclosed within either single quotes (' ') or double quotes (" "). They are immutable, meaning once created, their contents cannot be changed.
